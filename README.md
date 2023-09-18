@@ -30,7 +30,7 @@ Currently I've solved 58 out of the 300 problems avaible. Below, each solution i
 - [Coin Piles](https://cses.fi/problemset/task/1754) - *[Solution](/introductory_problems/CoinPiles.cpp)*
 - [Palindrome Reorder](https://cses.fi/problemset/task/1755) - *[Solution](/introductory_problems/PalindromeReorder.cpp)*
 - [Gray Code](https://cses.fi/problemset/task/2205) - *[Solution](/introductory_problems/GrayCode.cpp)*
-- [Tower of Hanoi](https://cses.fi/problemset/task/2165) - *[Solution](/introductory_problems/TowerofHanoi.cpp)*
+- [Tower of Hanoi](https://cses.fi/problemset/task/2165) - *[Solution](/introductory_problems/TowerOfHanoi.cpp)*
 - [Creating Strings](https://cses.fi/problemset/task/1622) - *[Solution](/introductory_problems/CreatingStrings.cpp)*
 - [Apple Division](https://cses.fi/problemset/task/1623) - *[Solution](/introductory_problems/AppleDivision.cpp)*
 - [Chessboard and Queens](https://cses.fi/problemset/task/1624) - *[Solution](/introductory_problems/ChessboardAndQueens.cpp)*
