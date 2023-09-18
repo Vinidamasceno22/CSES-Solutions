@@ -1,11 +1,11 @@
 # CSES-Solutions
 This repository contains my solutions for the [CSES Problem SET](https://cses.fi/problemset/) starting from September 2022.
 
-**Last Updated:** 11th September 2023.
+**Last Updated:** 18th September 2023.
 
 ## Table of Contents
 
-Currently, I've solved 58 out of the 300 problems avaible. Below, each solution is paired with its corresponding question and organized by category.
+Currently, I've solved 59 out of the 300 problems avaible. Below, each solution is paired with its corresponding question and organized by category.
 
 - [Introductory Problems](#introductory-problems)
 - [Sorting and Searching](#sorting-and-searching)
@@ -82,6 +82,7 @@ Currently, I've solved 58 out of the 300 problems avaible. Below, each solution 
 - [Building Roads](https://cses.fi/problemset/task/1666) - *[Solution](/graph_algorithms/BuildingRoads.cpp)*
 - [Message Route](https://cses.fi/problemset/task/1667) - *[Solution](/graph_algorithms/MessageRoute.cpp)*
 - [Building Teams](https://cses.fi/problemset/task/1668) - *[Solution](/graph_algorithms/BuildingTeams.cpp)*
+- [Round Trip](https://cses.fi/problemset/task/1669/) - *[Solution](/graph_algorithms/RoundTrip.cpp)*
 
 ### Additional Problems
 
