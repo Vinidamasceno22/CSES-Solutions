@@ -13,6 +13,8 @@ Currently I've solved 58 out of the 300 problems avaible. Below, each solution i
 - [Graph Algorithms](#graph-algorithms)
 - [Additional Problems](#additional-problems)
 
+***
+
 ### Introductory Problems
 
 - [Weird Algorithm](https://cses.fi/problemset/task/1068) - *[Solution](/Vinidamasceno22/CSES-Solutions/blob/main/introductory_problems/WeirdAlgorithm.cpp)*
