@@ -83,6 +83,7 @@ Currently, I've solved 59 out of the 300 problems avaible. Below, each solution 
 - [Message Route](https://cses.fi/problemset/task/1667) - *[Solution](/graph_algorithms/MessageRoute.cpp)*
 - [Building Teams](https://cses.fi/problemset/task/1668) - *[Solution](/graph_algorithms/BuildingTeams.cpp)*
 - [Round Trip](https://cses.fi/problemset/task/1669/) - *[Solution](/graph_algorithms/RoundTrip.cpp)*
+- [Shortest Routes I](https://cses.fi/problemset/task/1671) - *[Solution](/graph_algorithms/ShortestRoutesI.cpp)*
 
 ### Additional Problems
 
