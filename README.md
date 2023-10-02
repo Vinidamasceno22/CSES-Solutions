@@ -5,7 +5,7 @@ This repository contains my solutions for the [CSES Problem SET](https://cses.fi
 
 ## Table of Contents
 
-Currently, I've solved 64 out of the 300 problems avaible. Below, each solution is paired with its corresponding question and organized by category.
+Currently, I've solved 65 out of the 300 problems avaible. Below, each solution is paired with its corresponding question and organized by category.
 
 - [Introductory Problems](#introductory-problems)
 - [Sorting and Searching](#sorting-and-searching)
@@ -88,6 +88,7 @@ Currently, I've solved 64 out of the 300 problems avaible. Below, each solution 
 - [Shortest Routes II](https://cses.fi/problemset/task/1672) - *[Solution](/graph_algorithms/ShortestRoutesII.cpp)*
 - [High Score](https://cses.fi/problemset/task/1673) - *[Solution](/graph_algorithms/HighScore.cpp)*
 - [Flight Discount](https://cses.fi/problemset/task/1195) - *[Solution](/graph_algorithms/FlightDiscount.cpp)*
+- [Course Schedule](https://cses.fi/problemset/task/1679) - *[Solution](/graph_algorithms/CourseSchedule.cpp)*
 
 ### Additional Problems
 
