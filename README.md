@@ -1,11 +1,11 @@
 # CSES-Solutions
 This repository contains my solutions for the [CSES Problem SET](https://cses.fi/problemset/) starting from September 2022.
 
-**Last Updated:** 2nd October 2023.
+**Last Updated:** 26th November 2023.
 
 ## Table of Contents
 
-Currently, I've solved 65 out of the 300 problems avaible. Below, each solution is paired with its corresponding question and organized by category.
+Currently, I've solved 66 out of the 300 problems avaible. Below, each solution is paired with its corresponding question and organized by category.
 
 - [Introductory Problems](#introductory-problems)
 - [Sorting and Searching](#sorting-and-searching)
@@ -74,6 +74,7 @@ Currently, I've solved 65 out of the 300 problems avaible. Below, each solution 
 - [Grid Paths](https://cses.fi/problemset/task/1638) - *[Solution](/dynamic_programming/GridPaths.cpp)*
 - [Book Shop](https://cses.fi/problemset/task/1158) - *[Solution](/dynamic_programming/BookShop.cpp)*
 - [Array Description](https://cses.fi/problemset/task/1746) - *[Solution](/dynamic_programming/ArrayDescription.cpp)*
+- [Rectangle Cutting](https://cses.fi/problemset/task/1744) - *[Solution](/dynamic_programming/RectangleCutting.cpp)*
 
 ### Graph Algorithms
 
