@@ -5,7 +5,7 @@ This repository contains my solutions for the [CSES Problem SET](https://cses.fi
 
 ## Table of Contents
 
-Currently, I've solved 67 out of the 300 problems avaible. Below, each solution is paired with its corresponding question and organized by category.
+Currently, I've solved 68 out of the 300 problems avaible. Below, each solution is paired with its corresponding question and organized by category.
 
 - [Introductory Problems](#introductory-problems)
 - [Sorting and Searching](#sorting-and-searching)
@@ -76,6 +76,7 @@ Currently, I've solved 67 out of the 300 problems avaible. Below, each solution 
 - [Array Description](https://cses.fi/problemset/task/1746) - *[Solution](/dynamic_programming/ArrayDescription.cpp)*
 - [Edit Distance](https://cses.fi/problemset/task/1639) - *[Solution](/dynamic_programming/EditDistance.cpp)*
 - [Rectangle Cutting](https://cses.fi/problemset/task/1744) - *[Solution](/dynamic_programming/RectangleCutting.cpp)*
+- [Money Sums](https://cses.fi/problemset/task/1745) - *[Solution](/dynamic_programming/MoneySums.cpp)*
 
 ### Graph Algorithms
 
